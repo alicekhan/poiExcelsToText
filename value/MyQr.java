@@ -12,7 +12,7 @@ import com.google.zxing.common.BitMatrix;
 import com.google.zxing.qrcode.decoder.ErrorCorrectionLevel;
  
 public class MyQr {
- 
+ // demo pull request
     // Function to create the QR code
     public static void createQR(String data, String path,
                                 String charset, Map hashMap,
