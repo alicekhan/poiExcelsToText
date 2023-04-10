@@ -29,7 +29,10 @@ public class MyQr {
             path.substring(path.lastIndexOf('.') + 1),
             new File(path));
     }
+ // demo changes
+
  // demo statement
+
    
     // Driver code
     public static void main(String[] args)
