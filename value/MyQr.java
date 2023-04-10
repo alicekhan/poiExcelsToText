@@ -30,6 +30,9 @@ public class MyQr {
             new File(path));
     }
  // demo changes
+
+ // demo statement
+
    
     // Driver code
     public static void main(String[] args)
